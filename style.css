@@ -9,7 +9,6 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Archivo", sans-serif;
-  cursor: none;
   display: block;
    background-color: black;
   
@@ -18,7 +17,6 @@ body {
 }
 
 #variable-text {
-  cursor: none;
   outline: none;
   border: none;
   text-align: center;
@@ -44,7 +42,6 @@ background-color: transparent;
   left: 50%;
  bottom: 4%;
   transform: translate(-50%);
-  cursor: none;
     font-family: Alte Haas Grotesk;
   display: block;
   font-weight: 400;
